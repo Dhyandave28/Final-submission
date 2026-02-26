@@ -1,7 +1,7 @@
 # Extracting and Visualizing Stock Data
 
 ## Description
-This project demonstrates the extraction of essential stock and revenue data for analysis and visualization. By comparing historical share prices and company revenue, users can make informed, data-driven decisions.
+This project demonstrates the extraction of essential stock and revenue data for analysis and visualization.By comparing historical share prices and company revenue, users can make informed, data-driven decisions.
 
 ## Table of Contents
 * **Define Graphing Function**: Implementation of the `make_graph` function.
